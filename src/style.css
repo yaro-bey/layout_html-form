@@ -1,1 +1,17 @@
 /* styles go here */
+.form-field {
+  display: block;
+  margin-top: 10px;
+}
+
+.set {
+  margin-bottom: 20px;
+}
+
+.set:first-of-type {
+  margin-top: 0;
+}
+
+.form-field:first-of-type {
+  margin-top: 0;
+}
